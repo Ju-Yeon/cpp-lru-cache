@@ -1,7 +1,7 @@
 cpp-lru-cache
 =============
 
-Fork a simple LRU cache for c++ from  [링크] (https://github.com/lamerman/cpp-lru-cache)
+Fork a simple LRU cache (https://github.com/lamerman/cpp-lru-cache)
 and extend with new function that add set-associative mapping function.
 
 

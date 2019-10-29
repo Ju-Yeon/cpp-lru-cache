@@ -1,6 +1,12 @@
 cpp-lru-cache
 =============
 
+Fork a simple LRU cache for c++ from  [링크] (https://github.com/lamerman/cpp-lru-cache)
+and extend with new function that add set-associative mapping function.
+
+
+
+
 Simple and reliable LRU (Least Recently Used) cache for c++ based on hashmap and linkedlist. The library is header only, simple test and example are included.
 It includes standard components and very little own logics that guarantees reliability.
 

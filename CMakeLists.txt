@@ -16,7 +16,7 @@ include_directories(
 
 add_executable(
     cpp-lru-cache-test
-    src/test)
+    src/sequential_test)
 
 add_dependencies(cpp-lru-cache-test googletest)
 
